@@ -1,3 +1,3 @@
 print("Hello World")
 a=9
-print(a)
+print(24 * 7)
