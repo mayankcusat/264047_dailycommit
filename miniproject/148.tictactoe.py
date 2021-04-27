@@ -138,5 +138,6 @@ while True:
         board = [' ' for x in range(10)]
         print('--------------------')
         main()
+
     else:
         break
