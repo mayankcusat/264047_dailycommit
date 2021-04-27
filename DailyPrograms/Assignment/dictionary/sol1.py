@@ -6,4 +6,5 @@ dict2 = {'d': 6, 'c': 4}
 print(Merge(dict1, dict2))
 
 
+
 print(dict2)
